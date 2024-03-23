@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-23T19:45:03 IST" name="Default suite" finished-at="2024-03-23T19:45:41 IST" duration-ms="38465">
+    <groups>
+    </groups>
+    <test started-at="2024-03-23T19:45:03 IST" name="Default test" finished-at="2024-03-23T19:45:41 IST" duration-ms="38465">
+      <class name="Projects.Sample.Fetchlink">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Projects.Sample.Fetchlink@3527942a]" started-at="2024-03-23T19:45:03 IST" name="setUp" finished-at="2024-03-23T19:45:20 IST" duration-ms="16510" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testFetchAllLinks()[pri:0, instance:Projects.Sample.Fetchlink@3527942a]" started-at="2024-03-23T19:45:20 IST" name="testFetchAllLinks" finished-at="2024-03-23T19:45:37 IST" duration-ms="17713" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFetchAllLinks -->
+        <test-method signature="testSpecificLinkAvailability()[pri:0, instance:Projects.Sample.Fetchlink@3527942a]" started-at="2024-03-23T19:45:37 IST" name="testSpecificLinkAvailability" finished-at="2024-03-23T19:45:38 IST" duration-ms="501" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSpecificLinkAvailability -->
+        <test-method signature="testSpecificLinkAvailability2()[pri:0, instance:Projects.Sample.Fetchlink@3527942a]" started-at="2024-03-23T19:45:38 IST" name="testSpecificLinkAvailability2" finished-at="2024-03-23T19:45:38 IST" duration-ms="164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSpecificLinkAvailability2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Projects.Sample.Fetchlink@3527942a]" started-at="2024-03-23T19:45:38 IST" name="tearDown" finished-at="2024-03-23T19:45:41 IST" duration-ms="3333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Projects.Sample.Fetchlink -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
